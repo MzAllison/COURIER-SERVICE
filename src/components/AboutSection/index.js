@@ -21,7 +21,7 @@ const About = () => {
            <AboutWrapper>
                <AboutCard>
                    <AboutIcon src={Icon1} />
-                   <AboutH2>OVERLAND NETWORK</AboutH2>
+                   <AboutH2>NETWORK</AboutH2>
                    <AboutP>To help businesses with their consumer demands </AboutP>
                </AboutCard>
                <AboutCard>

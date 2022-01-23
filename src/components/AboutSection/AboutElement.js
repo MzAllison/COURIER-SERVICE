@@ -8,7 +8,7 @@ export const AboutContainer = styled.div`
     align-items: center;
     background: #010606;
 
-    @media screen and (max-width: 468px) {
+    @media screen and (max-width: 768px) {
         height: 1500px;
     }
 
