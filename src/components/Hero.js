@@ -7,7 +7,7 @@ import { IoArrowForward, IoArrowBack} from 'react-icons/io5';
 
 // max-height: 1500px;
 const HeroSection = styled.section`
-height: 100vh;
+height: 100vw;
 position: relative;
 overflow: hidden;
 

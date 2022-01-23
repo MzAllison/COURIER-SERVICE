@@ -28,15 +28,15 @@ function App() {
     <About />
     <Slider
         imageSrc={travel_02}
-        title={"Be an explorer."}
+        title={"Shipping Experience."}
         subtitle={
           "Our platform offers a wide variety of unique travel locations!"
         }
       />
       <Slider
         imageSrc={travel_03}
-        title={"Memories for a lifetime."}
-        subtitle={"Your dream vacation is only a few clicks away."}
+        title={"What are our advantages."}
+        subtitle={"Good consumer service with the fastest delivery Network."}
         flipped={true}
       />
 
